@@ -1,6 +1,6 @@
 # TensorFlowMnist
 利用神经网络识别手写数字（MNIST 数据集）
-## 让模型循环训练1001次后模型的accuracy和loss##
+## 让模型循环训练1001次后模型的accuracy和loss
 **mnist_1.0_softmax**
 > test accuracy:0.9174 test loss: 29.2893
 
